@@ -1,0 +1,15 @@
+Korean (ko) word list for Android keyboards (AOSP .dict format)
+File: main_ko.dict · 400,000 words · next-word data: yes
+
+Korean (ko) word list with next-word data, built 2026-10-11 by Curmudgeon Works.
+
+Source and licence:
+- Leipzig Corpora Collection, Korean: kor_news_2022_1M, kor_news_2020_1M, kor_wikipedia_2021_1M, kor_newscrawl_2016_1M
+  (CC BY 4.0) — https://wortschatz.uni-leipzig.de/en/download/
+  D. Goldhahn, T. Eckart, U. Quasthoff: Building Large Monolingual Dictionaries at the Leipzig Corpora
+  Collection: From 100 to 200 Languages. LREC 2012.
+
+Method: same as Helium314/aosp-dictionaries scripts/wordlist.py (f = log(count) mapped onto 15..254), no Hunspell filter.
+Words as written between spaces (a word with its particles attached), Hangul syllables only, NFC; the 400,000 most frequent, each seen 5 times or more (91.3 % of running words). Up to 3 next words per word, each seen twice or more. 4 swear words marked possibly_offensive.
+
+Resulting licence of the list: CC BY 4.0, attribution to the Leipzig Corpora Collection.

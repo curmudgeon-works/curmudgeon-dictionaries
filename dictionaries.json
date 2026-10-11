@@ -100,6 +100,16 @@
   "sha256": "8f0aea5aa50019691b0ec709b1874b9c0f2a954547d77d252967864834ccad72"
  },
  {
+  "tag": "ko",
+  "name": "Korean",
+  "file": "main_ko.dict",
+  "bytes": 5111688,
+  "words": 400000,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "e50dadfd80846bf415ad6700d6e9fbc22329f6662c5a28757c1c7a9da2e523c4"
+ },
+ {
   "tag": "lv",
   "name": "Latvian",
   "file": "main_lv.dict",
@@ -168,5 +178,15 @@
   "nextWords": true,
   "licence": "CC BY 4.0",
   "sha256": "72c3d30ef37e97eefc5dcec0a2ccd822190fe2e5da0958f6c775a610fb6e339a"
+ },
+ {
+  "tag": "ur",
+  "name": "Urdu",
+  "file": "main_ur.dict",
+  "bytes": 1313053,
+  "words": 77588,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "1b6da007c7f045ab08278f0e061cfeffc877a46ec4b23a2e7fbc3a01bc5b0976"
  }
 ]

@@ -22,6 +22,7 @@ The files are attached to this repository's [Releases](https://github.com/curmud
 | Finnish | `fi` | [main_fi.dict](https://github.com/curmudgeon-works/curmudgeon-dictionaries/releases/latest/download/main_fi.dict) | 2.8 MB | 322,759 | yes | CC BY 4.0 | [note](sources/main_fi.source) |
 | Hindi | `hi` | [main_hi.dict](https://github.com/curmudgeon-works/curmudgeon-dictionaries/releases/latest/download/main_hi.dict) | 2.3 MB | 127,616 | yes | CC BY 4.0 | [note](sources/main_hi.source) |
 | Indonesian | `id` | [main_id.dict](https://github.com/curmudgeon-works/curmudgeon-dictionaries/releases/latest/download/main_id.dict) | 1.7 MB | 229,483 | yes | CC BY 4.0 | [note](sources/main_id.source) |
+| Korean | `ko` | [main_ko.dict](https://github.com/curmudgeon-works/curmudgeon-dictionaries/releases/latest/download/main_ko.dict) | 5.1 MB | 400,000 | yes | CC BY 4.0 | [note](sources/main_ko.source) |
 | Latvian | `lv` | [main_lv.dict](https://github.com/curmudgeon-works/curmudgeon-dictionaries/releases/latest/download/main_lv.dict) | 2.7 MB | 346,715 | yes | CC BY 4.0 | [note](sources/main_lv.source) |
 | Lithuanian | `lt` | [main_lt.dict](https://github.com/curmudgeon-works/curmudgeon-dictionaries/releases/latest/download/main_lt.dict) | 3.3 MB | 442,554 | yes | CC BY 4.0 | [note](sources/main_lt.source) |
 | Norwegian Bokmål | `nb` | [main_nb.dict](https://github.com/curmudgeon-works/curmudgeon-dictionaries/releases/latest/download/main_nb.dict) | 7.6 MB | 1,133,014 | yes | CC BY 4.0 | [note](sources/main_nb.source) |
@@ -29,14 +30,15 @@ The files are attached to this repository's [Releases](https://github.com/curmud
 | Slovenian | `sl` | [main_sl.dict](https://github.com/curmudgeon-works/curmudgeon-dictionaries/releases/latest/download/main_sl.dict) | 6.0 MB | 1,184,096 | yes | CC BY 4.0 | [note](sources/main_sl.source) |
 | Thai | `th` | [main_th.dict](https://github.com/curmudgeon-works/curmudgeon-dictionaries/releases/latest/download/main_th.dict) | 1.1 MB | 87,336 | no | CC0 1.0 | [note](sources/main_th.source) |
 | Ukrainian | `uk` | [main_uk.dict](https://github.com/curmudgeon-works/curmudgeon-dictionaries/releases/latest/download/main_uk.dict) | 12.7 MB | 1,347,649 | yes | CC BY 4.0 | [note](sources/main_uk.source) |
+| Urdu | `ur` | [main_ur.dict](https://github.com/curmudgeon-works/curmudgeon-dictionaries/releases/latest/download/main_ur.dict) | 1.3 MB | 77,588 | yes | CC BY 4.0 | [note](sources/main_ur.source) |
 
 ## Licences and attribution
 
 Every file has a source note in [`sources/`](sources/) (also attached to the release) naming where its words come from
 and under which licence. In short:
 
-- **Hindi** was built by Curmudgeon Works from the [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/)
-  Hindi corpora (CC BY 4.0). The list is under CC BY 4.0.
+- **Hindi, Korean and Urdu** were built by Curmudgeon Works from the [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/)
+  corpora of each language (CC BY 4.0). The lists are under CC BY 4.0.
 - **Thai** comes from [Helium314/aosp-dictionaries](https://codeberg.org/Helium314/aosp-dictionaries), built from the
   [PyThaiNLP](https://github.com/PyThaiNLP/pythainlp) corpus word list (CC0 1.0).
 - **All other languages** come from Helium314/aosp-dictionaries, built from the Leipzig Corpora Collection
