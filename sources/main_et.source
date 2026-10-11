@@ -1,0 +1,11 @@
+Estonian (et) word list for Android keyboards (AOSP .dict format)
+File: main_et.dict · 724,326 words · next-word data: yes
+
+Source: Leipzig Corpora Collection, Estonian corpora — https://wortschatz.uni-leipzig.de/en/download/
+  D. Goldhahn, T. Eckart, U. Quasthoff: Building Large Monolingual Dictionaries at the Leipzig Corpora Collection:
+  From 100 to 200 Languages. LREC 2012.
+Built by: Helium314/aosp-dictionaries (dictionaries_experimental/main_et.dict, made with its scripts/wordlist.py)
+  — https://codeberg.org/Helium314/aosp-dictionaries
+Licence: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+  The source lists are under CC BY 4.0; this word list is shared under the same licence with the attribution above.
+Note: words were checked against a Hunspell spell checker, so most names are missing.

@@ -1,0 +1,172 @@
+[
+ {
+  "tag": "ar",
+  "name": "Arabic",
+  "file": "main_ar.dict",
+  "bytes": 4900240,
+  "words": 470783,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "d4d88d10eb0d7023525f8bc7c24d5562ded72d0e75d4e3f8e8f0219f5dfc3a5f"
+ },
+ {
+  "tag": "ca",
+  "name": "Catalan",
+  "file": "main_ca.dict",
+  "bytes": 1934126,
+  "words": 239857,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "b321f8c09afb8b3e3ce69d1b151bd8173cef1cb76f7a5993fbd4b3edea141b7f"
+ },
+ {
+  "tag": "hr",
+  "name": "Croatian",
+  "file": "main_hr.dict",
+  "bytes": 5796939,
+  "words": 1090327,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "ed8917d4039ba966c7f0647f0c3337c5cd715ef5e16fa73a8d28d982ea3469a5"
+ },
+ {
+  "tag": "cs",
+  "name": "Czech",
+  "file": "main_cs.dict",
+  "bytes": 16462605,
+  "words": 3154785,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "ade68d50d4a5a92eb1e3ad2d88a6a0f729d33a8d7ca420da9c7b405916b1dab7"
+ },
+ {
+  "tag": "da",
+  "name": "Danish",
+  "file": "main_da.dict",
+  "bytes": 9431163,
+  "words": 1383621,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "37d3519d23f19fe8c1ddafa76380af32cb8ab50f08544cbafe2a28255734461a"
+ },
+ {
+  "tag": "en-CA",
+  "name": "English (Canada)",
+  "file": "main_en-CA.dict",
+  "bytes": 1593347,
+  "words": 178863,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "6aa8233c3c3533968b32d8a16079d73789936f03f663e55561494c3c655dd992"
+ },
+ {
+  "tag": "et",
+  "name": "Estonian",
+  "file": "main_et.dict",
+  "bytes": 5470621,
+  "words": 724326,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "f19489ee41838c899dd44c3cb62b27a30f848d4f4f8af09e807b50542289a534"
+ },
+ {
+  "tag": "fi",
+  "name": "Finnish",
+  "file": "main_fi.dict",
+  "bytes": 2787357,
+  "words": 322759,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "9bfe41428b84b81c21405f53d3719aa8c5d2c96f41d74606e575d9b2a75d2757"
+ },
+ {
+  "tag": "hi",
+  "name": "Hindi",
+  "file": "main_hi.dict",
+  "bytes": 2340536,
+  "words": 127616,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "673dca691594c78b9f65791c6c4747919832163d5f818e4f087783338c4e8f1d"
+ },
+ {
+  "tag": "id",
+  "name": "Indonesian",
+  "file": "main_id.dict",
+  "bytes": 1730052,
+  "words": 229483,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "8f0aea5aa50019691b0ec709b1874b9c0f2a954547d77d252967864834ccad72"
+ },
+ {
+  "tag": "lv",
+  "name": "Latvian",
+  "file": "main_lv.dict",
+  "bytes": 2695180,
+  "words": 346715,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "d247e66bdc29a80b65a71df4a94b37e119a8c3ba8ca5956295028dfb285aa55f"
+ },
+ {
+  "tag": "lt",
+  "name": "Lithuanian",
+  "file": "main_lt.dict",
+  "bytes": 3312970,
+  "words": 442554,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "c8b106372ad532ce708fcf6e8b723cf89549c06273f77ba964f7eb5d56be176a"
+ },
+ {
+  "tag": "nb",
+  "name": "Norwegian Bokmål",
+  "file": "main_nb.dict",
+  "bytes": 7582271,
+  "words": 1133014,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "144907462cf2a4c0d3b7c6e2aa67687a448a3f665ca449072ec433e85ff1b745"
+ },
+ {
+  "tag": "fa",
+  "name": "Persian",
+  "file": "main_fa.dict",
+  "bytes": 12746117,
+  "words": 1520799,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "d37ed94c37d5638dfcd847ee288fc0db7281f7ae5a7cf448751ad333faffbf30"
+ },
+ {
+  "tag": "sl",
+  "name": "Slovenian",
+  "file": "main_sl.dict",
+  "bytes": 6006086,
+  "words": 1184096,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "6850487b3985ea073f6f570fa5f489261c695e173552ec60bdd9fcedb0cc090f"
+ },
+ {
+  "tag": "th",
+  "name": "Thai",
+  "file": "main_th.dict",
+  "bytes": 1127911,
+  "words": 87336,
+  "nextWords": false,
+  "licence": "CC0 1.0",
+  "sha256": "a94696448b8258b9d087de43a67d19eb46b83f83e199afcf10bdea92a18a0e31"
+ },
+ {
+  "tag": "uk",
+  "name": "Ukrainian",
+  "file": "main_uk.dict",
+  "bytes": 12727554,
+  "words": 1347649,
+  "nextWords": true,
+  "licence": "CC BY 4.0",
+  "sha256": "72c3d30ef37e97eefc5dcec0a2ccd822190fe2e5da0958f6c775a610fb6e339a"
+ }
+]
