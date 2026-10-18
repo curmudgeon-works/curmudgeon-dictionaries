@@ -5,11 +5,14 @@ Urdu (ur) word list with next-word data, built 2026-10-11 by Curmudgeon Works.
 
 Source and licence:
 - Leipzig Corpora Collection, Urdu: urd_newscrawl_2016_1M, urd_newscrawl_2014_1M, urd_wikipedia_2021_300K
-  (CC BY 4.0) — https://wortschatz.uni-leipzig.de/en/download/
+  Leipzig Corpora Collection downloads, CC BY (their terms give no version: https://wortschatz.uni-leipzig.de/en/usage)
+  — https://wortschatz.uni-leipzig.de/en/download/
   D. Goldhahn, T. Eckart, U. Quasthoff: Building Large Monolingual Dictionaries at the Leipzig Corpora
   Collection: From 100 to 200 Languages. LREC 2012.
 
 Method: same as Helium314/aosp-dictionaries scripts/wordlist.py (f = log(count) mapped onto 15..254), no Hunspell filter.
 Arabic-script letters mapped to the Urdu forms the keyboard types (ي ى→ی, ك→ک, ه→ہ); short-vowel marks and tatweel dropped; NFC; count >= 5 (77,588 words, 99.2 % of running words). Up to 3 next words per word, each seen twice or more. 6 swear words marked possibly_offensive.
+
+Changes: modified, not the original data: the source texts were counted, filtered and merged into this word list.
 
 Resulting licence of the list: CC BY 4.0, attribution to the Leipzig Corpora Collection.

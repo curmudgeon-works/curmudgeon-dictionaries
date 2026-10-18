@@ -7,5 +7,7 @@ Source: Leipzig Corpora Collection, Indonesian corpora — https://wortschatz.un
 Built by: Helium314/aosp-dictionaries (dictionaries_experimental/main_id.dict, made with its scripts/wordlist.py)
   — https://codeberg.org/Helium314/aosp-dictionaries
 Licence: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-  The source lists are under CC BY 4.0; this word list is shared under the same licence with the attribution above.
+  The Leipzig Corpora Collection offers its downloaded corpora under CC BY (no version given; terms: https://wortschatz.uni-leipzig.de/en/usage);
+  this word list is shared under CC BY 4.0 with the attribution above.
 Note: words were checked against a Hunspell spell checker, so most names are missing.
+Changes: modified, not the original data: the source texts were counted, filtered and merged into this word list.

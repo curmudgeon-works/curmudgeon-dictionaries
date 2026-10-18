@@ -5,7 +5,8 @@ Hindi (hi, Devanagari) word list with next-word data, built 2026-10-10 by Curmud
 
 Source and licence:
 - Leipzig Corpora Collection, Hindi: hin_news_2022_1M, hin_news_2020_1M, hin_wikipedia_2021_1M, hin_mixed_2019_1M
-  (CC BY 4.0) — https://wortschatz.uni-leipzig.de/en/download/
+  Leipzig Corpora Collection downloads, CC BY (their terms give no version: https://wortschatz.uni-leipzig.de/en/usage)
+  — https://wortschatz.uni-leipzig.de/en/download/
   D. Goldhahn, T. Eckart, U. Quasthoff: Building Large Monolingual Dictionaries at the Leipzig Corpora
   Collection: From 100 to 200 Languages. LREC 2012.
 
@@ -13,5 +14,7 @@ Method: same as Helium314/aosp-dictionaries scripts/wordlist.py: words counted o
 (duplicates once), NFC, Devanagari letters only, count >= 5 (127,616 words, 98.9 % of running words);
 f = log(count) mapped onto 15..254; up to 3 next words per word, ranked 1..3, each seen twice or more.
 No Hunspell filter (hi_IN Hunspell is GPL). 16 swear words marked possibly_offensive.
+
+Changes: modified, not the original data: the source texts were counted, filtered and merged into this word list.
 
 Resulting licence of the list: CC BY 4.0, attribution to the Leipzig Corpora Collection.

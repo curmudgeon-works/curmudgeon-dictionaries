@@ -1,0 +1,21 @@
+Curmudgeon dictionaries: licences
+
+This repository holds no single licence: each word list (.dict file) has its own, and its source note in
+sources/ (also attached to every release) gives the full attribution, the sources and how the list was made.
+
+Every list is modified, not the original data: the source texts or word lists were counted, filtered, merged
+and converted into keyboard dictionaries.
+
+- Hindi (hi), Korean (ko), Urdu (ur): built by Curmudgeon Works from Leipzig Corpora Collection downloads
+  (offered under CC BY; their terms give no version: https://wortschatz.uni-leipzig.de/en/usage).
+  The lists: Creative Commons Attribution 4.0 (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
+
+- Thai (th): from Helium314/aosp-dictionaries (https://codeberg.org/Helium314/aosp-dictionaries), built from the
+  PyThaiNLP corpus word list. CC0 1.0, https://creativecommons.org/publicdomain/zero/1.0/
+
+- All other languages (ar ca cs da en-CA et fa fi hr id lt lv nb sl uk): from Helium314/aosp-dictionaries,
+  built from Leipzig Corpora Collection downloads (offered under CC BY, no version given). The lists:
+  CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+
+Leipzig Corpora Collection: D. Goldhahn, T. Eckart, U. Quasthoff: Building Large Monolingual Dictionaries at
+the Leipzig Corpora Collection: From 100 to 200 Languages. LREC 2012.

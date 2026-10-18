@@ -37,12 +37,16 @@ The files are attached to this repository's [Releases](https://github.com/curmud
 Every file has a source note in [`sources/`](sources/) (also attached to the release) naming where its words come from
 and under which licence. In short:
 
-- **Hindi, Korean and Urdu** were built by Curmudgeon Works from the [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/)
-  corpora of each language (CC BY 4.0). The lists are under CC BY 4.0.
+- **Hindi, Korean and Urdu** were built by Curmudgeon Works from [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/)
+  downloads of each language (offered under CC BY; [their terms](https://wortschatz.uni-leipzig.de/en/usage) give no
+  version). The lists are under CC BY 4.0.
 - **Thai** comes from [Helium314/aosp-dictionaries](https://codeberg.org/Helium314/aosp-dictionaries), built from the
   [PyThaiNLP](https://github.com/PyThaiNLP/pythainlp) corpus word list (CC0 1.0).
-- **All other languages** come from Helium314/aosp-dictionaries, built from the Leipzig Corpora Collection
-  (CC BY 4.0). Those lists are under CC BY 4.0.
+- **All other languages** come from Helium314/aosp-dictionaries, built from Leipzig Corpora Collection downloads
+  (CC BY). Those lists are under CC BY 4.0.
+
+Every list is modified, not the original data: the sources were counted, filtered, merged and converted into keyboard
+dictionaries. [`LICENSE`](LICENSE) sums this up.
 
 Leipzig Corpora Collection: D. Goldhahn, T. Eckart, U. Quasthoff: *Building Large Monolingual Dictionaries at the
 Leipzig Corpora Collection: From 100 to 200 Languages.* LREC 2012.
